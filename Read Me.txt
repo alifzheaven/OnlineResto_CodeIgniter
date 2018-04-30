@@ -1,0 +1,18 @@
+Install Localhost:
+
+1. Buat database dengan nama db_penjualan.
+2. Extract File mfood.zip yang didownload kedalam directori:
+   C:\\wamp\www (jika menggunakan WAMPSERVER).
+   C:\\xampp\htdocs (jika menggunakan XAMPP).
+   NB: Pastikan anda mengaktifkan rewrite module pada webserver Anda.!
+3. Buat database dengan nama db_mfood.
+4. Buka http://localhost/phpmyadmin. Lalu import db_mfood.sql kedalam database yang anda buat.
+   NB: file db_mfood.sql terdapat pada folder mfood.zip
+5. Pada Browser Buka URL http://localhost/mfood/
+6. Untuk Login ke ke Backend: http://localhost/mfood/administrator/
+   NB: Username : admin 
+       Password : 123456
+7. Selesai.  
+
+
+-Semoga Bermanfaat-
